@@ -1,0 +1,102 @@
+
+
+
+
+
+
+/*part1*/
+.container1{
+ 
+    margin: auto;
+    background-color: #e55039;
+    text-align: center;
+  }
+  .btn1{
+    background-color: #d1d8e0;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 30px;
+  }
+  
+  v{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    padding-right: 2%;
+  }
+  p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* part2 */
+  .container2{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .box{
+
+    width: 22%;
+    float: left;
+    margin: 1%;
+    margin-left: 8%;
+ 
+
+      
+  }
+  .section2{
+    background-image: url(./zxcv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20% 0;
+  }
+  .box2{
+    clip-path: circle();
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* part3 */
+  .container3{
+    width: 80%;
+    margin: auto;
+    padding: 0%;
+    background-color:white; 
+   
+    
+  
+  }
+  .footer{
+    text-align: center;
+    font-size: large;
+    color: black;
+    
+  }
+  c{
+    font-size: large;
+    color: red;
+    font-weight: bold;
+    
+  }
